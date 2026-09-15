@@ -106,3 +106,10 @@ A 0.2 mΩ metal-strip shunt keeps voltage drop and dissipation low at high curre
 ## Why It Matters
 
 Over-voltage, deep discharge and over-current all cause capacity fade, rising internal resistance and, at worst, permanent cell damage. By holding every cell inside its limits and keeping the cells balanced, this board improves pack safety, reliability and cycle life.
+
+## Team
+
+| Name | Role |
+|---|---|
+| **Afraaz Khan** | Hardware design |
+| **Ansh Wadhera** | Hardware design |
